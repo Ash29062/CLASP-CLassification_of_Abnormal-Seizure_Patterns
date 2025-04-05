@@ -1,8 +1,8 @@
-# Impulse 2025: Final Hackathon - Biomedical Signal Processing
+# CLASP – CLassification of Abnormal Seizure Patterns (Biomedical Signal Processing)
 
 ## Introduction
 
-Welcome to the **Impulse 2025: Final Hackathon** in **Biomedical Signal Processing**. The challenge is to build a machine learning model that can classify different types of seizures from **EEG signals**. The aim is to create a model that not only identifies seizure types but also provides **explainable insights** to help clinicians understand and trust the model's decisions.
+ The challenge is to build a machine learning model that can classify different types of seizures from **EEG signals**. The aim is to create a model that not only identifies seizure types but also provides **explainable insights** to help clinicians understand and trust the model's decisions.
 
 ### Dataset Overview:
 The dataset consists of EEG signals categorized into four classes:
